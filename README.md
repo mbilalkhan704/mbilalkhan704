@@ -57,8 +57,8 @@ I'm looking for an **internship or junior role in data engineering, data science
 
 </div>
 
-**Strongest at:** Python, pandas, Django, PostgreSQL, Postman
-**Comfortable with:** SQL, JavaScript, Java, REST APIs and JWT, MySQL, Git
+**Strongest at:** Python, pandas, Django, PostgreSQL, Postman<br/>
+**Comfortable with:** SQL, JavaScript, Java, REST APIs and JWT, MySQL, Git<br/>
 **Learning now:** React Native, Azure Machine Learning and MLOps
 
 I use AI assistants for the parts I'm still learning, mostly GUI code and some frontend work, and I say so in the repos where it applies.
