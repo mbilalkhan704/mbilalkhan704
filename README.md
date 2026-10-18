@@ -26,9 +26,9 @@ I'm looking for an **internship or junior role in data engineering, data science
 
 <div align="center">
 
-| 500 | 6.5 months | 92% |
-| :---: | :---: | :---: |
-| certificates generated in about 10 seconds | of manual work finished in about a week | test accuracy on a pneumonia classifier |
+| 6.5 months | 92% |
+| :---: | :---: |
+| of manual work finished in about a week | test accuracy on a pneumonia classifier |
 
 </div>
 
